@@ -1,0 +1,8 @@
+{application, revops,
+ [ {description, "revops"}
+ , {vsn, "git"}
+ , {id, "git"}
+ , {registered, []}
+ , {applications, [kernel, stdlib]}
+ , {modules, []}
+ ]}.
